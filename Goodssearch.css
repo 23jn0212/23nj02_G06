@@ -1,0 +1,18 @@
+.top{
+    margin-top: 15px;
+}
+#menu{
+    margin-right: 78px;
+    float: right;
+}
+.status{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 2px #000000;
+}
+.ex2{
+    width: 114px;
+    height: 167px;
+}
+/*https://saruwakakun.com/html-css/reference/boxステータスはここ参照

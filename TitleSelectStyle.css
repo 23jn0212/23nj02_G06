@@ -1,0 +1,29 @@
+#yMenu{
+    width: 450px;
+    height: 600px;
+    margin: 100px 50px;
+    display: block;
+    float: left;
+}
+
+#dMenu{
+    width: 450px;
+    height: 600px;
+    margin: 100px 50px;
+    display: block;
+    float: left;
+}
+
+#pMenu{
+    width: 450px;
+    height: 600px;
+    margin: 100px 50px;
+    display: block;
+    float: left;
+}
+
+#zentai{
+    margin-left: 120px;
+}
+
+    

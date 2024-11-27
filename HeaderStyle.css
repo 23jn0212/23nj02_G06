@@ -1,0 +1,25 @@
+#logo{
+    float: left;
+    margin-left: 50px;
+}
+
+#link{
+    float: right;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 40px;
+}
+
+#link2{
+    margin-top: 25px;
+    float: right;
+}
+
+#serach{
+    width: 450px;
+    padding: 10px;
+}
+
+#clear{
+    clear: both;
+}

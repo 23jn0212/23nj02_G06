@@ -1,0 +1,26 @@
+.ex1{
+    height: 464px;
+    width: 320px;
+}
+
+.ex2{
+    width: 114px;
+    height: 167px;
+}
+
+#boxsize{
+    margin: 80px 10px -78px 10px;
+}
+
+.relateditems{
+    padding: 1em 5em 1em 5em;
+    border: double 5px #4ec4d3;
+}
+
+#detailsize{
+    text-align: center;
+}
+
+.box{
+    border: double 5px #4ec4d3;
+}

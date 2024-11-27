@@ -1,0 +1,30 @@
+.colum1{
+    float: left;
+    margin-left: 9px;
+}
+
+.colum2{
+    float: left;
+    margin-left: 20px;
+}
+
+.colum3{
+    float: left;
+    margin-left: 20px;
+}
+
+.colum4{
+    float: left;
+    margin-left: 20px;
+}
+.seiunsky{
+    float: left;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+#q{
+    margin-top: 30px;
+}
+#w{
+    margin-top: 7%;
+}

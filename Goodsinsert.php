@@ -6,7 +6,7 @@
     <title>在庫追加画面</title>
 </head>
 <body>
-    <form metod="post" action="">
+    <form metod="post" action="Goodsinsertcheck.php">
         <div class="colum1">
             タイトル
             <br>
@@ -77,15 +77,15 @@
         
 
         <div class="seiunsky">
-            <button onclick="history.back()">メニューに戻る</button>
+        
             <br>
 
             <button name="add" id="q">追加</button>
 
-            <button name="check" id="w">確認</button> 
+            <input type="submit" name="check" id="w" value="確認">
         </div>
     </form>
-
+    <button type="button" onclick="history.back()" id="menu">メニューに戻る</button>
     
 
 

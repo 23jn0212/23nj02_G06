@@ -1,8 +1,13 @@
 <header>
-    <div>
-        <a href="">
-            <img src="images/mainlogo.png" alt="ロゴ">
+<link rel="stylesheet" href="css/HeaderStyle.css">
+    <div id="logo">
+        <a href="titleSelect.php">
+            <img src="images/logo1.png" alt="ロゴ">
         </a>
     </div>
-    <hr>
+
+    <div id="clear">
+        <hr>
+    </div>
+    
 </header>

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,13 +9,13 @@
 </head>
 <body>
     <div class="container">
-        <div class="button">
-            <button id="back" onclick="hcentory.back()">1つ前に戻る</button>
+        <div class="button1">
+            <button onclick="history.back()">1つ前に戻る</button>
 
-            <button id="menu" onclick="location.href='httcen://www.google.com/'">メニューに戻る</button>
+            <button id="menu" onclick="location.href='http://10.32.97.1/SOTSU/2024/23JN02/G06/Goodsmanagement.php'">メニューに戻る</button>
         </div>
 
-        <div class="Gooceninfo">
+        <div class="Goodsinfo">
             <div class="info1 ">
             <table class="table table-bordered">    
                 <tr>
@@ -57,13 +56,26 @@
                         　▶︎相手のクリーチャーを１体選び、持ち主の手札に戻す。</th>
                     <th id="cen"><img src="images/エクス.jpg" class="Goodsimg"></th>
                 </tr>
+            </table>
 
-
+            <button>削除</button>
 
         </div>
 
-
+        <div class="button2">
+            <tr>
+                <input type="button" value="確定" onclick="myenter()">
+            <tr>
+        </div>
 
     </div>
+
+    <script>
+        //余裕があれば、はい、いいえのやつにして確定にもワンクッションおく
+        function myenter(){
+            window.location.replace('http://10.32.97.1/SOTSU/2024/23JN02/G06/Goodsmanagement.php');
+            alert(`保存しました。`);
+        }
+    </script>
 </body>
 </html>
